@@ -3,5 +3,5 @@ TO INSTALL THEN
 git clone https://github.com/hellokcha/NUCKER-DISCORD
 cd NUCKER-DISCORD
 pip3 install -r requirement
-python3 & python (nuke!!)
+python3 & python (nuke\!\!.py)
 AND ENJOYYYYY!!!!!!
